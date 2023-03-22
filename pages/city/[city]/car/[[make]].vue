@@ -1,6 +1,8 @@
+<script setup>
+</script>
+
 <template>
   <div>
-    <CarCards/>
+    <CarCards />
   </div>
-
 </template>
